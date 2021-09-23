@@ -93,4 +93,9 @@ body {
   p, li {
     font-size: 1.7em;
   }
+
+  #cropped-image {
+    width: 200px;
+    height: 200px;
+  }
 }
